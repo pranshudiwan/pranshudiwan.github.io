@@ -1,6 +1,6 @@
 ## Welcome to my page!
 
-<center>C[Image](https://github.com/pranshudiwan/pranshudiwan.github.io/blob/master/tcs.JPG)</center>
+[Image](https://github.com/pranshudiwan/pranshudiwan.github.io/blob/master/tcs.JPG){style=text-align:center}
 
 ### About me
 
