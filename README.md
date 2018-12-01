@@ -1,7 +1,5 @@
 ## Welcome to my page!
 
-![Image](https://github.com/pranshudiwan/pranshudiwan.github.io/blob/master/tcs.JPG)
-
 ### About me
 
 You can use the [editor on GitHub](https://github.com/pranshudiwan/pranshudiwan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -30,7 +28,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 `Code`
 
-### Contact
+## Contact
 
 Having trouble with Pages? 
 
