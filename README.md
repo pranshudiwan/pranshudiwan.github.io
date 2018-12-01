@@ -12,20 +12,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-- ![Image](https://github.com/pranshudiwan/pranshudiwan.github.io/blob/master/tcs.JPG)
-_Italic text about the description of the project_
+- _Italic text about the description of the project_ [Link](https://google.com)
 
-- ![Image](https://github.com/pranshudiwan/pranshudiwan.github.io/blob/master/tcs.JPG)
-_Italic text about the description of the project_
+- _Italic text about the description of the project_ [Link](https://google.com)
 
-- ![Image](https://github.com/pranshudiwan/pranshudiwan.github.io/blob/master/tcs.JPG)
-_Italic text about the description of the project_
+- _Italic text about the description of the project_ [Link](https://google.com)
 
-- ![Image](https://github.com/pranshudiwan/pranshudiwan.github.io/blob/master/tcs.JPG)
-_Italic text about the description of the project_
-
-- ![Image](https://github.com/pranshudiwan/pranshudiwan.github.io/blob/master/tcs.JPG)
-_Italic text about the description of the project_
+- _Italic text about the description of the project_ [Link](https://google.com)
 
 
 **Bold** and _Italic_ and `Code` text
