@@ -13,15 +13,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 - [Project name](https://google.com)
+
  _Italic text about the description of the project_ 
  
  - [Project name](https://google.com)
+ 
  _Italic text about the description of the project_ 
  
  - [Project name](https://google.com)
+ 
  _Italic text about the description of the project_ 
  
  - [Project name](https://google.com)
+ 
  _Italic text about the description of the project_ 
 
 **Bold** and _Italic_ and `Code` text
