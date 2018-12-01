@@ -1,12 +1,12 @@
-## Welcome to my page!
+## Welcome!
 
 ### About me
 
-You can use the [editor on GitHub](https://github.com/pranshudiwan/pranshudiwan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A final year undergraduate student at Mumbai University, majoring in Information Technology. Data Science enthusiast, curently interning at HashtagLoyalty.
 
 Whenever you commit to this repository, GitHub Pages will run **[Resume](https://github.com/pranshudiwan/pranshudiwan.github.io/blob/master/Pranshu's%20Resume.pdf)** to rebuild the pages in your site, from the content in your Markdown files.
 
-## My Projects (both on Github and Kagle)
+## Projects:
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -36,6 +36,6 @@ You can reach out to me on:
 
 **Email:** _pranshudiwan04@gmail.com_
 
-**Email:** pranshudiwan04@gmail.com
+**Phone:** +91 8879725890
 
 
