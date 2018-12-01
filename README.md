@@ -1,6 +1,6 @@
 ## Welcome to my page!
 
-[Image](https://github.com/pranshudiwan/pranshudiwan.github.io/blob/master/tcs.JPG)
+![Image](https://github.com/pranshudiwan/pranshudiwan.github.io/blob/master/tcs.JPG)
 
 ### About me
 
@@ -12,13 +12,21 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-- ![Image](src)
-- ![Image](src)
-- [Link](url)
-- [Link](url)
-- [Link](url)
-- [Link](url)
-- [Link](url)
+- ![Image](https://github.com/pranshudiwan/pranshudiwan.github.io/blob/master/tcs.JPG)
+_Italic text about the description of the project_
+
+- ![Image](https://github.com/pranshudiwan/pranshudiwan.github.io/blob/master/tcs.JPG)
+_Italic text about the description of the project_
+
+- ![Image](https://github.com/pranshudiwan/pranshudiwan.github.io/blob/master/tcs.JPG)
+_Italic text about the description of the project_
+
+- ![Image](https://github.com/pranshudiwan/pranshudiwan.github.io/blob/master/tcs.JPG)
+_Italic text about the description of the project_
+
+- ![Image](https://github.com/pranshudiwan/pranshudiwan.github.io/blob/master/tcs.JPG)
+_Italic text about the description of the project_
+
 
 **Bold** and _Italic_ and `Code` text
 
