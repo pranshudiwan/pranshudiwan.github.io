@@ -1,6 +1,6 @@
 ## Welcome to my page!
 
-[Image](https://github.com/pranshudiwan/pranshudiwan.github.io/blob/master/tcs.JPG){style=text-align:center}
+[Image](https://github.com/pranshudiwan/pranshudiwan.github.io/blob/master/tcs.JPG)
 
 ### About me
 
@@ -8,27 +8,22 @@ You can use the [editor on GitHub](https://github.com/pranshudiwan/pranshudiwan.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## My Projects!
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+- ![Image](src)
+- ![Image](src)
+- [Link](url)
+- [Link](url)
+- [Link](url)
+- [Link](url)
+- [Link](url)
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
