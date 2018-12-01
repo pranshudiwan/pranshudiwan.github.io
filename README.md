@@ -8,7 +8,7 @@ You can use the [editor on GitHub](https://github.com/pranshudiwan/pranshudiwan.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## My Projects!
+## My Projects (both on Github and Kagle)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -28,13 +28,16 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
  
  _Italic text about the description of the project_ 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+`Code`
 
 ### Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? 
+
+You can reach out to me on:
+
+**Email:** _pranshudiwan04@gmail.com_
+
+**Email:** pranshudiwan04@gmail.com
+
+
