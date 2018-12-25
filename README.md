@@ -14,20 +14,20 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 - [Item Classification](https://github.com/pranshudiwan/Classify-food-items-Unsupervised-learning-)
 
- _I have classified a database of food items into appropriate segments (veg, non-veg, drinks, etc) using an unsupervised approach, since there are no features in our data.
+ _I have classified a database of food items into appropriate segments (veg, non-veg, drinks, etc) using an unsupervised approach, since there are no features in our data._
 
-I have used Word2Vec, SpaCy, GloVe and cosine similarity matrices._ 
+_I have used Word2Vec, SpaCy, GloVe and cosine similarity matrices._ 
  
  - [Web application for database operations](https://github.com/pranshudiwan/Search-and-CRUD-Database-Operations-on-a-web-app)
  
  _Perform CRUD (Create, Read, Update, Delete) operations on any database on a web app._ 
  
- - [Toxic comments classification challenge (Kaggle)]
+ - Toxic comments classification challenge (Kaggle)
  
  _Built a model capable of detecting different types of toxicity like threats, obscenity, insults, and identity-based hate. Trained an ensemble model consisting of algorithms like LSTM, Attention Model, Glove embedding using Keras to get an accuracy score of 0.9865 on
 the leaderboard_ 
  
- - [Movie Recommendation System]
+ - Movie Recommendation System
  
  _Built an ensemble model for a personalized movie recommendation system. The ensemble model has content based, popularity based and
 collaborative filtering recommendation algorithms. Used the MovieLens datasets._ 
