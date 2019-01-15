@@ -42,7 +42,7 @@ You can reach out to me on:
 
 **Email:** _pranshudiwan04@gmail.com_
 
-**[LinkedIn: Pranshu's LinkedIn profile](linkedin.com/in/pranshudiwan)**
+**LinkedIn:** **[Profile](linkedin.com/in/pranshudiwan)**
 
 **Phone:** +91 8879725890
 
