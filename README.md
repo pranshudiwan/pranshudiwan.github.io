@@ -1,7 +1,5 @@
 ## Welcome!
 
-### _This website is still being worked upon. Updated changes should reflect soon. Happy browsing! :)_
-
 ### About me
 
 I'm a final year undergraduate student at Mumbai University, majoring in Information Technology. A Data Science enthusiast, curently interning as a Data Science Intern at Hashtag Loyalty.
@@ -28,7 +26,7 @@ _I have used Word2Vec, SpaCy, GloVe and cosine similarity matrices._
  
  _Extension of my project at Hexaware Technologies Ltd. It can perform CRUD (Create, Read, Update, Delete) operations on any database on a web app. Added a module to import a external database as a csv file which directly gets added/updated to the main database after validation. Also added a new custom self-designed CSS3 theme._
  
- - **Toxic comments classification challenge (Kaggle)**
+ - **[Toxic comments classification challenge (Kaggle)](https://github.com/pranshudiwan/Toxic-comments-challenge)** `Code`
  
  _Built a model capable of detecting different types of toxicity like threats, obscenity, insults, and identity-based hate. Trained an ensemble model consisting of algorithms like LSTM, Attention Model, Glove embedding using Keras to get an accuracy score of 0.9865 on
 the leaderboard._ 
@@ -44,7 +42,7 @@ You can reach out to me on:
 
 **Email:** _pranshudiwan04@gmail.com_
 
-**LinkedIn:** _linkedin.com/in/pranshudiwan_
+**[LinkedIn: ](linkedin.com/in/pranshudiwan)**
 
 **Phone:** +91 8879725890
 
