@@ -10,7 +10,7 @@ I started solving competitions on Kaggle in my second year of undergraduate stud
 
 Currently, I'm in my last semester of my undergrad and I'm applying to masters programs for the fall '19 intake.
 
-Here is a copy of my professional **[Resume](https://pranshudiwan.github.io/resume)**
+Here is a copy of my **[Resume](https://pranshudiwan.github.io/resume)**
 
 ## Projects:
 
