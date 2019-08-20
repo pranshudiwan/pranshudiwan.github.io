@@ -2,13 +2,13 @@
 
 ### About me
 
-I'm a final year undergraduate student at Mumbai University, majoring in Information Technology. A Data Science enthusiast, curently interning as a Data Science Intern at Hashtag Loyalty.
+I'm a first year graduate student at Northeastern University, under the MS Data Science course.
+
+My undergraduate was in Mumbai University, majoring in Information Technology. A Data Science enthusiast, I worked as a Data Science Intern at Hashtag Loyalty.
 
 My areas of interest include Natural Language Processing (working with problems like word sense disambiguation, pronoun resolution, summarization, etc.) Computer Vision, and understanding and solving real life Data Science problems. 
 
 I started solving competitions on Kaggle in my second year of undergraduate study. Starting from the very basic Titanic Survival prediction challenge to completing the Toxic Comments challenge with a bronze medal, it's been a long way.
-
-Currently, I'm in my last semester of my undergrad and I'm applying to masters programs for the fall '19 intake.
 
 Here is a copy of my **[Resume](https://pranshudiwan.github.io/resume/index.html)**
 
