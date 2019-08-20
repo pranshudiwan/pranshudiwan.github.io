@@ -10,7 +10,18 @@ I started solving competitions on Kaggle in my second year of undergraduate stud
 
 Currently, I'm in my last semester of my undergrad and I'm applying to masters programs for the fall '19 intake.
 
-Here is a copy of my **[Resume](https://pranshudiwan.github.io/resume)**
+Here is a copy of my **[Resume](https://pranshudiwan.github.io/resume/index.html)**
+
+## Research:
+
+- **[Deep Learning Based approaches for Recommendation Systems](https://pranshudiwan.github.io/resume/FER.html)** `Link to paper`
+
+ _Recommendation systems are the most widely used Machine Learning algorithm in the industry. Recently Deep Learning algorithms have been successfully applied in fields like Computer Vision, Natural Language Processing etc. and have started being applied to Recommendation System. In this research paper we have studied different Deep Learning methods for Recommendation Systems._
+
+ - **[Facial Emotion Recognition using Deep Learning](https://github.com/pranshudiwan/Classify-food-items-Unsupervised-learning-)** `Link to paper`
+
+ _Human beings rely a lot on non-verbal communication and facial emotion is a large part of it. In this review paper we have covered the datasets and algorithms that are used for Facial Emotion Recognition (FER). The algorithms range from simple Support Vector Machines (SVM) to complex Convolutional Neural Network (CNN). We explain these algorithms through the fundamental research papers and go through their application to the task of FER._
+
 
 ## Projects:
 
