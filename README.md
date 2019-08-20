@@ -14,11 +14,11 @@ Here is a copy of my **[Resume](https://pranshudiwan.github.io/resume/index.html
 
 ## Research:
 
-- **[Deep Learning Based approaches for Recommendation Systems](https://pranshudiwan.github.io/resume/FER.html)** `Link to paper`
+- **[Deep Learning Based approaches for Recommendation Systems](https://pranshudiwan.github.io/resume/rec.html)** `Link to paper`
 
  _Recommendation systems are the most widely used Machine Learning algorithm in the industry. Recently Deep Learning algorithms have been successfully applied in fields like Computer Vision, Natural Language Processing etc. and have started being applied to Recommendation System. In this research paper we have studied different Deep Learning methods for Recommendation Systems._
 
- - **[Facial Emotion Recognition using Deep Learning](https://github.com/pranshudiwan/Classify-food-items-Unsupervised-learning-)** `Link to paper`
+ - **[Facial Emotion Recognition using Deep Learning](https://pranshudiwan.github.io/resume/fer.html)** `Link to paper`
 
  _Human beings rely a lot on non-verbal communication and facial emotion is a large part of it. In this review paper we have covered the datasets and algorithms that are used for Facial Emotion Recognition (FER). The algorithms range from simple Support Vector Machines (SVM) to complex Convolutional Neural Network (CNN). We explain these algorithms through the fundamental research papers and go through their application to the task of FER._
 
@@ -51,10 +51,10 @@ collaborative filtering recommendation algorithms. Used the MovieLens datasets._
 
 You can reach out to me on:
 
-**Email:** _pranshudiwan04@gmail.com_
+**Email:** _diwan.p@husky.neu.edu_
 
 **LinkedIn:** **[Profile](https://linkedin.com/in/pranshudiwan)**
 
-**Phone:** +91 8879725890
+**Phone:** +1 (857)-472-1806
 
 
