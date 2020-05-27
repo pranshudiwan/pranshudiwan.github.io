@@ -2,15 +2,15 @@
 
 ### About me
 
-I'm a first year graduate student at Northeastern University, under the MS Data Science course.
+I'm a graduate student at Northeastern University, in the MS Data Science program.
 
-My undergraduate was in Mumbai University, majoring in Information Technology. A Data Science enthusiast, I worked as a Data Science Intern at Hashtag Loyalty.
+My undergraduate was in Mumbai University, majoring in Information Technology. A Data Science enthusiast, I worked as a Data Science Intern at Hashtag Loyalty for a year. My work consisted of developing various Machine Learning models to predict and understand user behaviour, delivering presentations, and interating with the Business Development team to get clarity on client requirements.
 
-My areas of interest include Natural Language Processing (working with problems like word sense disambiguation, pronoun resolution, summarization, etc.) Computer Vision, and understanding and solving real life Data Science problems. 
+My areas of interest include Natural Language Processing (working with problems like word sense disambiguation, pronoun resolution, summarization, etc.), and understanding and solving real life Data Science problems. 
 
 I started solving competitions on Kaggle in my second year of undergraduate study. Starting from the very basic Titanic Survival prediction challenge to completing the Toxic Comments challenge with a bronze medal, it's been a long way.
 
-Here is a copy of my **[Resume](https://pranshudiwan.github.io/resume/index.html)**
+Details can be found in my resume **[Resume](https://pranshudiwan.github.io/resume/index.html)**
 
 ## Research:
 
@@ -51,7 +51,7 @@ collaborative filtering recommendation algorithms. Used the MovieLens datasets._
 
 You can reach out to me on:
 
-**Email:** _diwan.p@husky.neu.edu_
+**Email:** _diwan.p@northeastern.edu_
 
 **LinkedIn:** **[Profile](https://linkedin.com/in/pranshudiwan)**
 
