@@ -10,7 +10,7 @@ My areas of interest include Natural Language Processing (working with problems 
 
 I started solving competitions on Kaggle in my second year of undergraduate study. Starting from the very basic Titanic Survival prediction challenge to completing the Toxic Comments challenge with a bronze medal, it's been a long way.
 
-Details can be found in my **[Resume](https://pranshudiwan.github.io/index.html)**
+Details can be found in my **[Resume](https://pranshudiwan.github.io/resume.html)**
 
 ## Research:
 
