@@ -4,9 +4,11 @@
 
 I'm a graduate student at Northeastern University, in the MS Data Science program.
 
-My undergraduate was in Mumbai University, majoring in Information Technology. A Data Science enthusiast, I worked as a Data Science Intern at Hashtag Loyalty for a year. My work consisted of developing various Machine Learning models to predict and understand user behaviour, delivering presentations, and interating with the Business Development team to get clarity on client requirements.
+Currently, I work at Fidelity Investments as an Associate Data Scientist. My work consits of leveraging unstructured text data to produce actionable insights which are used to drive business decisions.
 
-My areas of interest include Natural Language Processing (working with problems like word sense disambiguation, pronoun resolution, summarization, etc.), and understanding and solving real life Data Science problems. 
+My undergraduate studies were in Mumbai University, majoring in Information Technology. A Data Science enthusiast, I worked as a Data Science Intern at Hashtag Loyalty for a year. My work consisted of developing various Machine Learning models to predict and understand user behaviour, delivering presentations, and interating with the Business Development team to get clarity on client requirements.
+
+My areas of interest include Natural Language Processing (working with problems like word sense disambiguation, pronoun resolution, summarization, etc.), and understanding and solving real life Data Science problems to provide monetary value to businesses.
 
 I started solving competitions on Kaggle in my second year of undergraduate study. Starting from the very basic Titanic Survival prediction challenge to completing the Toxic Comments challenge with a bronze medal, it's been a long way.
 
@@ -26,6 +28,10 @@ Details can be found in my **[Resume](https://pranshudiwan.github.io/resume.html
 ## Projects:
 
 Here are some of the projects I've worked upon during my undergrad. 
+
+- **[Item Classification](https://github.com/pranshudiwan/Classify-food-items-Unsupervised-learning-)** `Code`
+
+ _The aim was to predict the movement of the stock price using the news headlines and past DJIA index data. Through the course of the project, various techniques have been explored, analyzed and formulated them to build the best model for our case. This project was done in the DS 5220 (Supervised Machine Learning) Class of Northeastern University, Spring 2020._
 
 - **[Item Classification](https://github.com/pranshudiwan/Classify-food-items-Unsupervised-learning-)** `Code`
 
