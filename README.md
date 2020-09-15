@@ -29,7 +29,7 @@ Details can be found in my **[Resume](https://pranshudiwan.github.io/resume.html
 
 Here are some of the projects I've worked upon during my undergrad. 
 
-- **[Item Classification](https://github.com/pranshudiwan/Classify-food-items-Unsupervised-learning-)** `Code`
+- **[Predicting Stock Movement Using News Headlines](https://github.com/pranshudiwan/Predicting-Stock-Movement-Using-News-Headlines)** `Code`
 
  _The aim was to predict the movement of the stock price using the news headlines and past DJIA index data. Through the course of the project, various techniques have been explored, analyzed and formulated them to build the best model for our case. This project was done in the DS 5220 (Supervised Machine Learning) Class of Northeastern University, Spring 2020._
 
